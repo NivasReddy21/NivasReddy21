@@ -47,6 +47,7 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NivasReddy21&layout=compact)](https://github.com/NivasReddy21/github-readme-stats)
 
 [website]: http://nivas-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/NivasRe39194486
