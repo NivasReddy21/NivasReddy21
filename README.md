@@ -47,6 +47,8 @@
 
 </details>
 
+[![NivasReddy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NivasReddy21)](https://github.com/NivasReddy21/github-readme-stats)
+
 [website]: http://nivas-portfolio.herokuapp.com/
 [twitter]: https://twitter.com/NivasRe39194486
 [youtube]: https://www.youtube.com/channel/UCUiyUeyxUa0baQoBwum_wlQ
